@@ -12,4 +12,3 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 计算机科学与技术
 
 #### Research Interests  
-XX, XX, XX, XX.
