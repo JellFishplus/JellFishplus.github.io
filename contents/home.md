@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/JellFishplus-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
@@ -12,3 +12,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 计算机科学与技术
 
 #### Research Interests  
+XX, XX, XX, XX.
